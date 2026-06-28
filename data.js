@@ -15,7 +15,7 @@ window.MATCHES = [
   { num: 84, date: 'Thu, Jul 2',  kickoff: '8:00 PM ET', venue: 'BMO Field',       city: 'Toronto',    a: 'Portugal',     b: 'Croatia',  flagA: '🇵🇹', flagB: '🇭🇷' },
   { num: 85, date: 'Fri, Jul 3',  kickoff: '12:00 PM PT',venue: 'BC Place',        city: 'Vancouver',  a: 'Switzerland',  b: 'Iran',     flagA: '🇨🇭', flagB: '🇮🇷' },
   { num: 86, date: 'Fri, Jul 3',  kickoff: '2:00 PM CT', venue: 'AT&T Stadium',    city: 'Arlington',  a: 'Australia',    b: 'Egypt',    flagA: '🇦🇺', flagB: '🇪🇬' },
-  { num: 87, date: 'Fri, Jul 3',  kickoff: '8:00 PM ET', venue: 'Hard Rock Stadium',city:'Miami Gardens',a:'Argentina',  b: 'Cabo Verde', flagA: '🇦🇷', flagB: '🇨🇻' },
+  { num: 87, date: 'Fri, Jul 3',  kickoff: '8:00 PM ET', venue: 'Hard Rock Stadium',city:'Miami Gardens',a:'Argentina',  b: 'Cape Verde', flagA: '🇦🇷', flagB: '🇨🇻' },
   { num: 88, date: 'Sat, Jul 4',  kickoff: '12:00 PM CT',venue: 'Arrowhead Stadium',city: 'Kansas City',a: 'Colombia',    b: 'Ghana',    flagA: '🇨🇴', flagB: '🇬🇭' }
 ];
 
